@@ -1,6 +1,6 @@
-# diku.codingpirates.dk
+# itu.codingpirates.dk
 
-Website til Coding Pirates-afdelingen på DIKU. Besøg siden på <http://diku.codingpirates.dk>.
+Website til Coding Pirates-afdelingen på ITU. Besøg siden på <http://itu.codingpirates.dk>.
 
 The website is built with Jekyll 3.1.2.
 
